@@ -21,7 +21,7 @@ No game rules, no cloud, no accounts (`3d-unity-firebase` is the online route).
 
 ### Status
 
-v0.1: `SaveStore` (`Save`, `Load`, `Exists`, `Delete`, `PathFor`), `SaveResult<T>`, `SaveStatus`. Used by Temnorid Hippodrome, Escape, Detective and Master.
+v0.1.1: `SaveStore` (`Save`, `Load`, `LoadBackup`, `Exists`, `BackupExists`, `Delete`, `PathFor`, `BackupPathFor`), `SaveResult<T>`, `SaveStatus`. Used by Temnorid Hippodrome, Escape, Detective and Master.
 
 ### Roadmap
 

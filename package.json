@@ -1,6 +1,6 @@
 {
   "name": "com.itkamianets.3d-unity-save",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "Unity Save",
   "description": "Versioned local JSON save files for games: one slot per file under the persistent data path, written safely, with a controlled result for a missing, corrupt or newer save. The save envelope follows 3d-save-schema; the game owns its payload.",
   "unity": "6000.6",
